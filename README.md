@@ -1,5 +1,4 @@
-# Retail-Sales-PowerBI-Dashboard
- A Power BI dashboard built using retail sales data with 540,000+ rows.
+
  # 🛍️ Retail Sales Power BI Dashboard
 
 This project showcases a retail sales analysis using Power BI and Excel.
